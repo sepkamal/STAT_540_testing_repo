@@ -1,5 +1,7 @@
 Seminar 2A R Markdown Intro
 ================
+Sepehr Kamal
+2018-01-10
 
 Hi this is **Sep's markdown file**.
 

@@ -1,6 +1,8 @@
 ---
 title: "Seminar 2A R Markdown Intro"
-output: github_document
+author: "Sepehr Kamal"
+date: "2018-01-10"
+output: html_document
 ---
 
 Hi this is **Sep's markdown file**.
