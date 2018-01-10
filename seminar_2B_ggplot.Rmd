@@ -1,0 +1,24 @@
+---
+title: "ggplot2 intro"
+output: github_document
+---
+
+Fun fact - did you know there is no ggplot1???
+
+
+```{r}
+library(tidyverse)
+```
+
+
+```{r}
+mpg
+```
+
+```{r}
+mpg %>% 
+  ggplot(aes(x = displ, y = hwy)) +
+  geom_point(aes(size =  class, colour = drv))
+
+```
+
