@@ -4,4 +4,4 @@
  
 ## General info
 
-- This is some cool info written in **RStudio** :thumpsup:
+- This is some cool info written in **RStudio** :thumbsup:
